@@ -1,0 +1,31 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.pyc
+__pycache__/
+
+# Python build artifacts
+*.egg-info/
+dist/
+build/
+
+# C++ build artifacts
+*.o
+*.so
+*.a
+
+# Specific ROS files that are generated
+install/
+local_setup.bash
+local_setup.sh
+local_setup.zsh
+setup.bash
+setup.sh
+setup.zsh
+_setup_util.py

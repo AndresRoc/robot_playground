@@ -1,0 +1,6 @@
+robot_kinematics:
+  ros__parameters:
+    solver: "numerical_ik"
+    position_tolerance: 1.0e-3
+    orientation_tolerance: 1.0e-2
+    max_iterations: 200

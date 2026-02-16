@@ -1,0 +1,6 @@
+robot_planning:
+  ros__parameters:
+    planner: "joint_interpolation"
+    time_step: 0.05
+    max_velocity_scale: 0.5
+    collision_check_resolution: 0.02

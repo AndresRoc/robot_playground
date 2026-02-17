@@ -29,3 +29,6 @@ setup.bash
 setup.sh
 setup.zsh
 _setup_util.py
+
+# Windows metadata files accidentally copied into Linux workspaces
+*:Zone.Identifier

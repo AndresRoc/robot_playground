@@ -1,4 +1,4 @@
-# robot_playground
+# Robot Playground
 
 This is a workspace designed for those who want to play with ROS2 and robots
 
